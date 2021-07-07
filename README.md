@@ -11,7 +11,7 @@
   <h3 align="center">Image Resolution Enhancement (Super Resolution)</h3>
 
   <p align="center">
-The aim of this project is to develop a system that can successfully produce a higher resolution version of a given image. Image resolution enhancement is the process of upscaling the resolution or improving the details within an image. Given an image with low resolution, the aim of our system is to output the same image but it will be upscaled to a higher resolution image. In this project, after we have compared and tested(analyzed) classical solutions (interpolations, fourier transform methods, etc.). After that, we continued with these which use machine learning methods (CNN and GAN) to solve this problem.
+The aim of this project is to develop a system that can successfully produce a higher resolution version of a given image. Image resolution enhancement is the process of upscaling the resolution or improving the details within an image. Given an image with low resolution, the aim of our system is to output the same image but it will be upscaled to a higher resolution image. Firstly, we have compared and tested(analyzed) classical solutions (interpolations, fourier transform methods, etc.). After that, we continued with these which use machine learning methods (CNN and GAN) to solve this problem.
     <br />
     <a href="https://github.com/yunusbaysal/Image-Resolution-Enhancement"><strong>Explore the docs »</strong></a>
     <br />
